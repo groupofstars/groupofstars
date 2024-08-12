@@ -31,6 +31,7 @@
 *-* **Proactive self-learner** who adapts to new technologies
 
 <a href="https://docs.csharp.dev/"><img src="./assets/csharp.svg" alt="csharp" height="100" title="C# documentation"></a>
+<a href="https://docs.dotnet.dev/"><img src="./assets/net.svg" alt=".net" height="100" title=".NET documentation"></a>
 <a href="https://docs.springboot.dev/"><img src="./assets/spring-boot.svg" alt="Spring Boot" height="100" title="Spring Boot documentation"></a>
 <a href="https://developer.android.com/reference"><img src="./assets/android-plain.svg" alt="android" height="100" title="Android reference"></a>
 <a href="https://https://ios.cfw.guide/"><img src="./assets/ios.svg" alt="ios" height="100" title="iOS reference"></a>
