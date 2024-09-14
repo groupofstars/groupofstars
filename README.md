@@ -2,7 +2,7 @@
 
 *-* Solid experience with *iOS* frameworks such as **SwiftUI**, Core Data, Core Animation, **UIKit**, **SpriteKit**, **GameplayKit**
 
-*-* Proficient in **MVC** and **MVVM** design pattern, **Clean Architecture**
+*-* Proficient in **VIPER** and **MVVM**, **BloC**, **MVC**, design pattern, **Clean Architecture**
 
 *-* Experience in **CI/CD pipeline** setting and management using **Xcode Cloud**, **Codemagic**, **gitlab**
 
@@ -24,7 +24,7 @@
 
 *-* Skiled in working with web technologies like **React.js**, **Nodejs**, **Mongodb**, **MySQL**, **Nextjs**, **Nuxtjs**,**ASP.NET**, **ASP.NET Core Web API** **Springboot**
 
-*-* Experience working with **Git VCS** tools including GitHub, GitLab
+*-* Experience working with **Git VCS**, **Plastic SCM** tools including GitHub, GitLab, Plastic Server, Plastic Cloud
 
 *-* **Positive** Attitude, **good** team player
 
