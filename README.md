@@ -24,7 +24,7 @@
 
 *-* Skiled in working with web technologies like **React.js**, **Nodejs**, **Mongodb**, **MySQL**, **Nextjs**, **Nuxtjs**,**ASP.NET**, **ASP.NET Core Web API** **Springboot**
 
-*-* Experience working with **Git VCS**, **Plastic SCM** tools including GitHub, GitLab, Plastic Server, Plastic Cloud
+*-* Experience working with **Git**, **Plastic SCM** VCS including GitHub, GitLab, Plastic Server, Plastic Cloud
 
 *-* **Positive** Attitude, **good** team player
 
