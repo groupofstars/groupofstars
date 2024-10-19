@@ -1,4 +1,4 @@
-# About me - Full Stack Blockchain Developer #
+# About me - Full Stack / Blockchain Developer #
 
 *-* Skiled in working with **web technologies** like **React.js**, **Nodejs**, **Mongodb**, **MySQL**, **Nextjs**, **Nuxtjs**,**ASP.NET**, **ASP.NET Core Web API** **Springboot**, **TypeScript**, **Firebase**
 
