@@ -1,6 +1,10 @@
-# About me #
+# About me - Full Stack Blockchain Developer #
+
+*-* Skiled in working with **web technologies** like **React.js**, **Nodejs**, **Mongodb**, **MySQL**, **Nextjs**, **Nuxtjs**,**ASP.NET**, **ASP.NET Core Web API** **Springboot**, **TypeScript**, **Firebase**
 
 *-* Solid experience with *iOS* frameworks such as **SwiftUI**, Core Data, Core Animation, **UIKit**, **SpriteKit**, **GameplayKit**
+
+*-* Proficient in **web3js** and **smart contract** building using **solidity**, **Rust**, **Go** on **Etherium**, **Solana**, **BNB** Chains.
 
 *-* Proficient in **VIPER** and **MVVM**, **BloC**, **MVC**, design pattern, **Clean Architecture**
 
@@ -12,17 +16,15 @@
 
 *-* Experience in charge of iOS app Store deployments, iOS Provisioning and Distribution profiles, Certificates and App IDs, as well as Test Flight Beta version distribution.
 
-*-* Skilled in Dart language including **web3dart** library, Flutter framework, Flutter Clean Architecture.
+*-* Skilled in Dart language including **web3dart** library, **Flutter** framework, Flutter **Clean Architecture**.
 
 *-* Skilled in **Riverpod**, **Provider** and **Hook** for **State** management in flutter.
 
-*-* Proficient in web3js and smart contract building using solidity Experience in working with Google Maps API, GPS Location Data, Google Play Services API, Google Analytics, Google Cloud Messaging API, Location Manager, and Notification Manager.
+*-* Experience in working with Google Maps API, GPS Location Data, Google Play Services API, Google Analytics, Google Cloud Messaging API, Location Manager, and Notification Manager.
 
-*-* Hands on experience on React Native.
+*-* Hands on experience on **React Native**.
 
 *-* Experience with Application Lifecycle Management (ALM) tools like Asana, Trello.
-
-*-* Skiled in working with web technologies like **React.js**, **Nodejs**, **Mongodb**, **MySQL**, **Nextjs**, **Nuxtjs**,**ASP.NET**, **ASP.NET Core Web API** **Springboot**
 
 *-* Experience working with **Git**, **Plastic SCM** VCS including GitHub, GitLab, Plastic Server, Plastic Cloud
 
