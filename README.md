@@ -33,7 +33,7 @@
 *-* **Positive** Attitude, **good** team player
 
 *-* **Proactive self-learner** who adapts to new technologies
-
+<a href="https://docs.ai.dev/"><img src="./assets/ai.png" alt="Artificial Intelligence" height="100" title="AI# documentation"></a>
 <a href="https://docs.csharp.dev/"><img src="./assets/csharp.svg" alt="csharp" height="100" title="C# documentation"></a>
 <a href="https://docs.dotnet.dev/"><img src="./assets/net.svg" alt=".net" height="100" title=".NET documentation"></a>
 <a href="https://docs.springboot.dev/"><img src="./assets/spring-boot.svg" alt="Spring Boot" height="100" title="Spring Boot documentation"></a>
