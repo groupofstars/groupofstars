@@ -1,4 +1,4 @@
-# About me - AI engineer / Software engineer #
+# About me - AI engineer / Software developer #
 
 *-* Professional in **Mathematical modeliing**, **Computer vision**, **ML/Deep learning**, **Classifiers**, **Signal processing/Image processing**
 
