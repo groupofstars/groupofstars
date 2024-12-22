@@ -1,8 +1,8 @@
 # About me - AI engineer / Software developer #
 
-*-* Professional in **Mathematical modeliing**, **Computer vision**, **ML/Deep learning**, **Classifiers**, **Signal processing/Image processing**
+*-* Professional in **Mathematical modeliing**, **Computer vision**, **ML/Deep learning**, **Gen AI**, **Classifiers**, **Signal processing/Image processing**
 
-*-* Skiled in working with **web technologies** like **React.js**, **Nodejs**, **Mongodb**, **MySQL**, **Nextjs**, **Nuxtjs**,**ASP.NET**, **ASP.NET Core Web API** **Springboot**, **TypeScript**, **Firebase**
+*-* Skiled in working with **web technologies** like **React.js**, **Nodejs**, **Mongodb**, **MySQL**, **Nextjs**, **Nuxtjs**,**ASP.NET**, **ASP.NET Core Web API** **Springboot**, **TypeScript**, **Firebase** and **AI agents** development with **LangGraph**, **LangChain**.
 
 *-* Solid experience with *iOS* frameworks such as **SwiftUI**, Core Data, Core Animation, **UIKit**, **SpriteKit**, **GameplayKit**
 
