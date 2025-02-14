@@ -1,4 +1,4 @@
-# About me - AI engineer / Software developer #
+# About me - FullStack developer / Software engineer #
 
 *-* Professional in **Mathematical modeliing**, **Computer vision**, **ML/Deep learning**, **Gen AI**, **Classifiers**, **Signal processing/Image processing**
 
