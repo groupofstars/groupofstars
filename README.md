@@ -1,6 +1,6 @@
 # About me - FullStack developer / Software engineer #
 
-*-* Professional in **Mathematical modeliing**, **Computer vision**, **ML/Deep learning**, **Gen AI**, **Classifiers**, **Signal processing/Image processing**
+*-* Professional in **Mathematical modeling**, **Computer vision**, **ML/Deep learning**, **Gen AI**, **Classifiers**, **Signal processing/Image processing**
 
 *-* Skilled in working with **web technologies** like **React.js**, **Nodejs**, **Mongodb**, **MySQL**, **Nextjs**, **Nuxtjs**,**ASP.NET**, **ASP.NET Core Web API** **Springboot**, **TypeScript**, **Firebase** and **AI agents** development with **LangGraph**, **LangChain**.
 
